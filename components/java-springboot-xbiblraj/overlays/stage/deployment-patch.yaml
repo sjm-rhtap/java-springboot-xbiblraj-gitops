@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.7
+      - image: quay.io/sjmrhtap/java-springboot-xbiblraj:43142673dbac3d90ec8a64bba683c744ec32e802@sha256:044e79d929726c9e4b4c9efa28e4ed375a9d93e85757651438551ec62fb489d9
         name: container-image  
